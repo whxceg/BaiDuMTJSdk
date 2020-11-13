@@ -1,4 +1,4 @@
-package com.sam.lib.mimoadsdk;
+package com.sam.lib.baidumtj;
 
 import org.junit.Test;
 
